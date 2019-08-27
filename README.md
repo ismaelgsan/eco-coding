@@ -1,2 +1,2 @@
-# eco-coding
+# 🌱 Eco Coding
 Coding as eco-friendly
