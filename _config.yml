@@ -1,1 +1,11 @@
+#
+# This file contains configuration flags to customize your site
+#
+
 theme: jekyll-theme-cayman
+
+# Name of your site (displayed in the header)
+name: 🌱 Eco Coding
+
+# Short bio or description (displayed in the header)
+description: Coding as eco-friendly
